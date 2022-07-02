@@ -1,5 +1,5 @@
 {
-    "name": "Keivan-S/laravel-ami",
+    "name": "keivan-s/laravel-ami",
     "description": "Asterisk Manager Interface integration Laravel package",
     "keywords": [
         "soap",
